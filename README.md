@@ -1,4 +1,4 @@
-# Bienvenue sur GitHub - PhooCore
+# Bienvenue sur mon GitHub - PhooCore
 
 Étudiante en 2e année de **BUT Informatique** à l’**Institut Universitaire de Technologie de Toulouse**  
 Je suis passionée par le développement d'applications et le développement web et j'aimerai plus tard devenir Ingénieur Informatique.
