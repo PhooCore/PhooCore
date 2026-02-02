@@ -4,7 +4,7 @@
 Je suis passionée par le développement d'applications et le développement web et j'aimerai plus tard devenir Ingénieur Informatique.
 
 ---
-Ce GitHub regroupe mes **projets universitaires** et personnels.
+Ce GitHub regroupe mes **projets universitaires** et **personnels**.
 
 ## Technologies & compétences
 
@@ -43,6 +43,8 @@ Ce GitHub regroupe mes **projets universitaires** et personnels.
 - Angular
 - JavaScript
 - Bonnes pratiques de conception logicielle
+
+J'aimerai commencer un projet personnel qui met en jeu ces langages.
 
 ---
 
