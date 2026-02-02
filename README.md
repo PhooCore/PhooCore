@@ -15,6 +15,9 @@ Ce GitHub regroupe mes **projets universitaires** et personnels.
 - Ada
 - SQL
 - JavaScript (bases)
+- HTML/CSS
+- PHP
+- JavaScript
 
 ### Outils & environnements
 - Git / GitHub
