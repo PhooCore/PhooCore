@@ -17,7 +17,6 @@ Ce GitHub regroupe mes **projets universitaires** et **personnels**.
 - JavaScript (bases)
 - HTML/CSS
 - PHP
-- JavaScript
 
 ### Outils & environnements
 - Git / GitHub
